@@ -13,6 +13,6 @@ a. Arquivo de exportação de Febre de Chikungunya gerado do SINAN Online na sub
 
 ![x](/pic/sync2.jpg)  
 
-b. Arquivo de exportação de Dengue gerado do SINAN Online na subpasta "c:\sync\deng" (não é necessário descompactar o arquivo);  
-c. Arquivo de exportação DBF de notificações individuais, "nindinet.dbf", gerado no SINAN NET na subpasta "c:\sync\zika";  
+  b. Arquivo de exportação de Dengue gerado do SINAN Online na subpasta "c:\sync\deng" (não é necessário descompactar o arquivo);  
+  c. Arquivo de exportação DBF de notificações individuais, "nindinet.dbf", gerado no SINAN NET na subpasta "c:\sync\zika";  
 

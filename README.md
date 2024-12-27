@@ -10,3 +10,6 @@ Também transforma os arquivos no formato CSV em arquivos HTML e XLSX.
 
 3. Para a sincronização da geração dos arquivos de saída pelo "DengueReport" e "ZikaChikFlash", coloque os seguintes arquivos nas seguintes subpastas do "Sync":  
 a. Arquivo de exportação de Febre de Chikungunya gerado do SINAN Online na subpasta "c:\sync\chik";  
+
+![x](/pic/sync2.jpg)
+

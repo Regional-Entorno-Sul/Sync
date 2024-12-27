@@ -3,4 +3,6 @@ Sincroniza as ferramentas DengueReport e ZikaChikFlash, atualizando os arquivos 
 Também transforma os arquivos no formato CSV em arquivos HTML e XLSX.
 
 ## Como usar?  
+1. É necessário ter os programas DengueReport e ZikaChikFlash funcionando no PC;
+2. 
 

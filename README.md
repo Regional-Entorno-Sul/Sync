@@ -4,7 +4,9 @@ Também transforma os arquivos no formato CSV em arquivos HTML e XLSX.
 
 ## Como usar?  
 1. É necessário ter os programas "DengueReport" e "ZikaChikFlash" funcionando no PC;
-2. Fazer o download da ferramenta "Sync" e após descompactá-la, colocar o diretório "Sync", resultante do processo de descompactação, na unidade C ou disco local C do PC;
+2. Fazer o download da ferramenta "Sync" e após descompactá-la, colocar o diretório "Sync" (resultante do processo de descompactação), na unidade C ou disco local C do PC;
 
 ![x](/pic/sync1.jpg)
 
+3. Para a sincronização da geração dos arquivos de saída pelo "DengueReport" e "ZikaChikFlash", coloque os seguintes arquivos nas seguintes subpastas do "Sync":
+a. Arquivo de exportação de Febre de Chikungunya gerado do SINAN Online na subpasta "c:\sync\chik";  

@@ -6,5 +6,5 @@ Também transforma os arquivos no formato CSV em arquivos HTML e XLSX.
 1. É necessário ter os programas "DengueReport" e "ZikaChikFlash" funcionando no PC;
 2. Fazer o download da ferramenta "Sync" e após descompactá-la, colocar o diretório "Sync", resultante do processo de descompactação, na unidade C ou disco local C do PC;
 
-![x](/pictures/folder_a.jpg)
+![x](/pic/sync1.jpg)
 
